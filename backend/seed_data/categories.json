@@ -1,0 +1,9 @@
+[
+  { "slug": "beach", "name": "Beach", "icon": "waves" },
+  { "slug": "culture-heritage", "name": "Culture & Heritage", "icon": "landmark" },
+  { "slug": "wildlife", "name": "Wildlife", "icon": "paw-print" },
+  { "slug": "hiking", "name": "Hiking", "icon": "mountain" },
+  { "slug": "nature", "name": "Nature", "icon": "trees" },
+  { "slug": "city", "name": "City", "icon": "building-2" }
+]
+

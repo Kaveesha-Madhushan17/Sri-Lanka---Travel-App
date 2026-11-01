@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "colombo-west-coast",
+    "name": "Colombo & West Coast",
+    "province": "Western",
+    "description": "The commercial capital and the beach towns south of it. Most travellers arrive here via Bandaranaike International Airport.",
+    "best_months": [12, 1, 2, 3, 4],
+    "latitude": 6.9271,
+    "longitude": 79.8612
+  },
+  {
+    "slug": "south-coast",
+    "name": "South Coast",
+    "province": "Southern",
+    "description": "Golden beaches, the Dutch-era Galle Fort, whale watching from Mirissa and the national parks of the deep south.",
+    "best_months": [12, 1, 2, 3, 4],
+    "latitude": 6.0329,
+    "longitude": 80.2168
+  },
+  {
+    "slug": "cultural-triangle",
+    "name": "Cultural Triangle",
+    "province": "North Central / Central",
+    "description": "The dry-zone heartland of ancient Sri Lanka: Sigiriya, Dambulla, Polonnaruwa and Anuradhapura, plus elephant gatherings at Minneriya.",
+    "best_months": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+    "latitude": 7.9570,
+    "longitude": 80.7603
+  },
+  {
+    "slug": "hill-country",
+    "name": "Hill Country",
+    "province": "Central / Uva / Sabaragamuwa",
+    "description": "Cool highlands of tea estates, waterfalls and misty peaks, including Kandy, Nuwara Eliya and Ella. Famous for its scenic train rides.",
+    "best_months": [1, 2, 3, 4],
+    "latitude": 6.9497,
+    "longitude": 80.7891
+  },
+  {
+    "slug": "east-coast",
+    "name": "East Coast",
+    "province": "Eastern",
+    "description": "Calm turquoise bays and surf breaks that are at their best when the south-west is rainy: Trincomalee, Pasikudah and Arugam Bay.",
+    "best_months": [5, 6, 7, 8, 9],
+    "latitude": 7.8731,
+    "longitude": 81.6000
+  },
+  {
+    "slug": "north",
+    "name": "Jaffna & the North",
+    "province": "Northern",
+    "description": "Tamil culture, Hindu kovils, islands and distinctive cuisine. Less visited and very rewarding.",
+    "best_months": [5, 6, 7, 8, 9],
+    "latitude": 9.6615,
+    "longitude": 80.0255
+  }
+]
+

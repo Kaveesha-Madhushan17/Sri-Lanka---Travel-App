@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+/* Design tokens (CSS variables) used by shadcn/ui. Nature-inspired palette:
+   tea-green primary, warm sand background. */
+:root {
+  --background: #fbfaf6;
+  --foreground: #1c2a22;
+  --card: #ffffff;
+  --card-foreground: #1c2a22;
+  --primary: #1f6f4a;
+  --primary-foreground: #ffffff;
+  --muted: #eef1ea;
+  --muted-foreground: #5b6b61;
+  --accent: #e3efe6;
+  --accent-foreground: #1c2a22;
+  --border: #dde3da;
+  --input: #dde3da;
+  --ring: #1f6f4a;
+}
+
+/* Expose the variables as Tailwind colours, e.g. bg-primary, text-muted-foreground. */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+  body {
+    background: var(--background);
+    color: var(--foreground);
+  }
+}
+
